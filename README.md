@@ -9,3 +9,7 @@
 3. report.pptx - Project report.
 
 4. top_customers.csv - Contains the top 500 predicted customers.
+
+#### Sequence for running the codes:
+
+1. Open and run the file Proj_LogisticRegression_Final_Version.ipynb for visualization, training and testing the models.
